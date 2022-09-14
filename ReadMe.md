@@ -1,7 +1,7 @@
-**Progrssive Web App (PWA) Template**
+**Pa$$w0rd Generator**
 ===
 
-## What is a Progressive Web App ?
+## What is Password Generator ?
 A Progressive Web App is a web app that delivers an app-like experience to users by using modern web capabilities. In the end, it's just your regular website that runs in a browser with some enhancements. It gives you the ability:
 
 Progressive web apps are a way to bring that native app feeling to a traditional web app. With PWAs we can enhance our website with mobile app features which increase usability and offer a great user experience.
