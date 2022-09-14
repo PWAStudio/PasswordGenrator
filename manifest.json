@@ -1,6 +1,6 @@
 {
-    "name": "PWA Template",
-    "short_name": "PwaTemplate",
+    "name": "Pa$$w0rd Generator",
+    "short_name": "P$wd Gen",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
